@@ -1,0 +1,106 @@
+deviceCategory,avgSessionDuration,bounceRate,browser,city,country,date,hostName,language,pageviews,region,screenResolution,sessionDuration,sessions,users
+desktop,0.0,100.0,Firefox,(not set),(not set),20201225,mytravelexp.com,c,1,(not set),1024x768,0.0,1,1
+desktop,19.0,0.0,Chrome,Sarajevo,Bosnia & Herzegovina,20210123,mytravelexp.com,en-us,2,Federation of Bosnia and Herzegovina,1920x1080,19.0,1,1
+desktop,0.0,100.0,Chrome,(not set),Canada,20201225,mytravelexp.com,en-us,11,(not set),1024x768,0.0,11,11
+desktop,16.0,0.0,Chrome,(not set),Canada,20210204,mytravelexp.com,en-us,2,Quebec,1366x768,16.0,1,1
+desktop,0.0,100.0,Edge,(not set),Canada,20201225,mytravelexp.com,en-us,7,(not set),1024x768,0.0,7,7
+desktop,0.0,100.0,Firefox,(not set),Canada,20201225,mytravelexp.com,en-us,3,(not set),1024x768,0.0,3,3
+desktop,0.0,100.0,Edge,Offenbach,Germany,20210120,mytravelexp.com,de,1,Hessen,1536x864,0.0,1,1
+desktop,1904.0,0.0,Chrome,Walldorf,Germany,20201104,mytravelexp.com,en-us,85,Baden-Wurttemberg,1280x720,1904.0,1,1
+desktop,1335.0,0.0,Chrome,Walldorf,Germany,20201105,mytravelexp.com,en-us,37,Baden-Wurttemberg,1280x720,2670.0,2,2
+desktop,140.5,0.0,Chrome,Bengaluru,India,20201003,mytravelexp.com,en-us,14,Karnataka,1280x720,562.0,4,2
+desktop,62.0,0.0,Chrome,Bengaluru,India,20201004,mytravelexp.com,en-us,4,Karnataka,1280x720,62.0,1,1
+desktop,94.0,0.0,Chrome,Bengaluru,India,20201026,mytravelexp.com,en-us,20,Karnataka,1280x720,188.0,2,1
+desktop,838.0,0.0,Chrome,Bengaluru,India,20201101,mytravelexp.com,en-us,18,Karnataka,1280x720,838.0,1,1
+desktop,232.71428571428572,14.285714285714285,Chrome,Bengaluru,India,20201102,mytravelexp.com,en-us,33,Karnataka,1280x720,1629.0,7,1
+desktop,384.2857142857143,0.0,Chrome,Bengaluru,India,20201103,mytravelexp.com,en-us,68,Karnataka,1280x720,2690.0,7,6
+desktop,1033.0,0.0,Chrome,Bengaluru,India,20201104,mytravelexp.com,en-us,18,Karnataka,1280x720,1033.0,1,1
+desktop,79.0,0.0,Chrome,Bengaluru,India,20201106,mytravelexp.com,en-us,6,Karnataka,1280x720,79.0,1,1
+desktop,387.5,50.0,Chrome,Bengaluru,India,20201122,mytravelexp.com,en-us,19,Karnataka,1280x720,775.0,2,1
+desktop,343.0,0.0,Chrome,Bengaluru,India,20201123,mytravelexp.com,en-us,4,Karnataka,1280x720,343.0,1,1
+desktop,0.0,100.0,Chrome,Bengaluru,India,20201124,mytravelexp.com,en-us,2,Karnataka,1280x720,0.0,2,1
+desktop,34.0,0.0,Chrome,Bengaluru,India,20201127,mytravelexp.com,en-us,5,Karnataka,1280x720,34.0,1,1
+desktop,0.0,100.0,Chrome,Bengaluru,India,20201128,mytravelexp.com,en-us,1,Karnataka,1280x720,0.0,1,1
+desktop,3.0,0.0,Chrome,Bengaluru,India,20201129,mytravelexp.com,en-us,2,Karnataka,1280x720,3.0,1,1
+desktop,0.0,100.0,Chrome,Bengaluru,India,20201130,mytravelexp.com,en-us,1,Karnataka,1280x720,0.0,1,1
+desktop,0.0,100.0,Chrome,Bengaluru,India,20201201,mytravelexp.com,en-us,1,Karnataka,1280x720,0.0,1,1
+desktop,365.5,50.0,Chrome,Bengaluru,India,20201207,mytravelexp.com,en-us,8,Karnataka,1280x720,731.0,2,1
+desktop,17.0,0.0,Chrome,Bengaluru,India,20210116,mytravelexp.com,en-us,2,Karnataka,1280x720,17.0,1,1
+desktop,9.0,0.0,Chrome,Bengaluru,India,20210125,mytravelexp.com,en-us,4,Karnataka,1280x720,9.0,1,1
+desktop,523.0,0.0,Chrome,Bengaluru,India,20210205,mytravelexp.com,en-us,2,Karnataka,1280x720,523.0,1,1
+desktop,487.0,0.0,Chrome,Bengaluru,India,20210206,mytravelexp.com,en-us,4,Karnataka,1280x720,487.0,1,1
+desktop,1520.0,0.0,Chrome,Bengaluru,India,20210214,mytravelexp.com,en-us,15,Karnataka,1280x720,3040.0,2,1
+desktop,0.0,100.0,Chrome,Bengaluru,India,20210302,mytravelexp.com,en-us,1,Karnataka,1280x720,0.0,1,1
+desktop,0.0,100.0,Chrome,Bengaluru,India,20210303,mytravelexp.com,en-us,3,Karnataka,1536x864,0.0,3,1
+desktop,859.0,0.0,Chrome,Bengaluru,India,20210306,mytravelexp.com,en-us,7,Karnataka,1536x864,859.0,1,1
+desktop,0.0,100.0,Chrome,Guwahati,India,20201215,mytravelexp.com,en-us,1,Assam,1536x864,0.0,1,1
+desktop,0.0,100.0,Chrome,Karachi,Pakistan,20210212,mytravelexp.com,en-us,1,Sindh,1920x1080,0.0,1,1
+desktop,1942.0,0.0,Chrome,Manila,Philippines,20201122,mytravelexp.com,en-us,8,Metro Manila,1280x720,1942.0,1,1
+desktop,25.0,0.0,Chrome,Manila,Philippines,20201125,mytravelexp.com,en-us,2,Metro Manila,1280x720,25.0,1,1
+desktop,1402.0,0.0,Chrome,Manila,Philippines,20201126,mytravelexp.com,en-us,4,Metro Manila,1280x720,1402.0,1,1
+desktop,39.0,0.0,Chrome,Marikina,Philippines,20210105,mytravelexp.com,en-us,3,Metro Manila,1280x720,39.0,1,1
+desktop,14.0,0.0,Chrome,Quezon City,Philippines,20210205,mytravelexp.com,en-us,2,Metro Manila,1280x720,14.0,1,1
+desktop,4.0,0.0,Chrome,Quezon City,Philippines,20210225,mytravelexp.com,en-us,2,Metro Manila,1280x720,4.0,1,1
+desktop,0.0,100.0,Chrome,San Juan,Puerto Rico,20201217,mytravelexp.com,en-us,2,San Juan,1920x1080,0.0,2,1
+desktop,168.0,0.0,Chrome,San Juan,Puerto Rico,20201218,mytravelexp.com,en-us,3,San Juan,1920x1080,168.0,1,1
+desktop,0.0,100.0,Chrome,Colombo,Sri Lanka,20210311,mytravelexp.com,en-us,1,Western Province,1366x768,0.0,1,1
+desktop,17.0,0.0,Chrome,London,United Kingdom,20201009,mytravelexp.com,en-gb,3,England,1920x1080,17.0,1,1
+desktop,0.0,100.0,Chrome,(not set),United States,20201122,mytravelexp.com,en-us,1,(not set),1024x864,0.0,1,1
+desktop,15.0,0.0,Chrome,(not set),United States,20210204,mytravelexp.com,en-us,2,California,1366x768,15.0,1,1
+desktop,31.0,0.0,Firefox,(not set),United States,20210203,mytravelexp.com,en-us,4,New York,1366x768,31.0,1,1
+desktop,0.0,100.0,Chrome,Chicago,United States,20201004,mytravelexp.com,en-us,1,Illinois,800x600,0.0,1,1
+desktop,0.0,100.0,Edge,Chicago,United States,20201004,mytravelexp.com,en-us,1,Illinois,800x600,0.0,1,1
+desktop,14.0,0.0,Firefox,Coffeyville,United States,20210204,mytravelexp.com,en-us,2,Kansas,1366x768,14.0,1,1
+desktop,0.0,100.0,Chrome,Columbus,United States,20201103,mytravelexp.com,en-us,1,Ohio,1280x3000,0.0,1,1
+desktop,0.0,100.0,Chrome,Kissimmee,United States,20210312,mytravelexp.com,en-us,1,Florida,2048x1152,0.0,1,1
+desktop,0.0,100.0,Chrome,Las Vegas,United States,20201011,mytravelexp.com,en-us,1,Nevada,1024x768,0.0,1,1
+desktop,0.0,100.0,Chrome,Las Vegas,United States,20201205,mytravelexp.com,en-us,1,Nevada,1024x768,0.0,1,1
+desktop,0.0,100.0,Chrome,Las Vegas,United States,20210131,mytravelexp.com,en-us,1,Nevada,1024x768,0.0,1,1
+desktop,0.0,100.0,Chrome,Parsons,United States,20210311,mytravelexp.com,en-us,1,Kansas,800x600,0.0,1,1
+desktop,0.0,100.0,Chrome,San Jose,United States,20210110,mytravelexp.com,en-us,1,California,800x600,0.0,1,1
+desktop,0.0,100.0,Safari,Seattle,United States,20210217,mytravelexp.com,en-us,1,Washington,800x600,0.0,1,1
+desktop,16.0,0.0,Chrome,Tempe,United States,20210203,mytravelexp.com,en-us,2,Arizona,1366x768,16.0,1,1
+mobile,0.0,100.0,UC Browser,Beijing,China,20210113,mytravelexp.com,zh-cn,1,Beijing,800x600,0.0,1,1
+mobile,0.0,100.0,UC Browser,Guiyang,China,20201114,mytravelexp.com,zh-cn,3,Guizhou,800x600,0.0,3,3
+mobile,0.0,100.0,UC Browser,Guiyang,China,20201117,mytravelexp.com,zh-cn,1,Guizhou,800x600,0.0,1,1
+mobile,0.0,100.0,UC Browser,Guiyang,China,20201119,mytravelexp.com,zh-cn,1,Guizhou,800x600,0.0,1,1
+mobile,0.0,100.0,UC Browser,Guiyang,China,20201121,mytravelexp.com,zh-cn,2,Guizhou,800x600,0.0,2,2
+mobile,0.0,100.0,Chrome,Hangzhou,China,20201010,mytravelexp.com,en-us,1,Zhejiang,411x731,0.0,1,1
+mobile,0.0,100.0,Chrome,Hangzhou,China,20210210,mytravelexp.com,c,1,Zhejiang,1024x768,0.0,1,1
+mobile,0.0,100.0,UC Browser,Shanghai,China,20201114,mytravelexp.com,zh-cn,1,Shanghai,800x600,0.0,1,1
+mobile,0.0,100.0,UC Browser,Shanghai,China,20201117,mytravelexp.com,zh-cn,1,Shanghai,800x600,0.0,1,1
+mobile,0.0,100.0,UC Browser,Shanghai,China,20201121,mytravelexp.com,zh-cn,1,Shanghai,800x600,0.0,1,1
+mobile,0.0,100.0,UC Browser,Shanghai,China,20210119,mytravelexp.com,zh-cn,1,Shanghai,800x600,0.0,1,1
+mobile,25.0,0.0,Chrome,(not set),India,20201120,mytravelexp.com,en-us,3,Kerala,412x846,25.0,1,1
+mobile,32.0,0.0,Chrome,Bengaluru,India,20201020,mytravelexp.com,en-us,3,Karnataka,412x846,32.0,1,1
+mobile,0.0,100.0,Chrome,Bengaluru,India,20201021,mytravelexp.com,en-us,1,Karnataka,412x846,0.0,1,1
+mobile,0.0,100.0,Chrome,Bengaluru,India,20201026,mytravelexp.com,en-us,1,Karnataka,412x846,0.0,1,1
+mobile,232.0,0.0,Chrome,Bengaluru,India,20201102,mytravelexp.com,en-us,13,Karnataka,412x846,232.0,1,1
+mobile,0.0,100.0,Chrome,Bengaluru,India,20201103,mytravelexp.com,en-gb,1,Karnataka,412x892,0.0,1,1
+mobile,543.0,0.0,Chrome,Bengaluru,India,20201103,mytravelexp.com,en-us,16,Karnataka,375x667,543.0,1,1
+mobile,277.0,0.0,Chrome,Bengaluru,India,20201103,mytravelexp.com,en-us,20,Karnataka,412x846,277.0,1,1
+mobile,15.0,0.0,Chrome,Bengaluru,India,20201104,mytravelexp.com,en-us,3,Karnataka,375x667,15.0,1,1
+mobile,819.0,33.33333333333333,Chrome,Bengaluru,India,20201104,mytravelexp.com,en-us,20,Karnataka,412x846,2457.0,3,1
+mobile,154.0,50.0,Chrome,Bengaluru,India,20201105,mytravelexp.com,en-us,23,Karnataka,412x846,308.0,2,1
+mobile,2.5,0.0,Chrome,Bengaluru,India,20201108,mytravelexp.com,en-us,4,Karnataka,412x846,5.0,2,1
+mobile,1430.0,0.0,Chrome,Bengaluru,India,20201202,mytravelexp.com,en-us,2,Karnataka,412x846,1430.0,1,1
+mobile,0.0,100.0,Chrome,Bengaluru,India,20201207,mytravelexp.com,en-us,3,Karnataka,412x846,0.0,3,1
+mobile,535.0,50.0,Chrome,Bengaluru,India,20201208,mytravelexp.com,en-us,9,Karnataka,412x846,1070.0,2,1
+mobile,49.0,0.0,Chrome,Bengaluru,India,20201211,mytravelexp.com,en-us,5,Karnataka,412x846,49.0,1,1
+mobile,20.0,0.0,Chrome,Bengaluru,India,20201213,mytravelexp.com,en-us,3,Karnataka,412x846,20.0,1,1
+mobile,0.0,100.0,Chrome,Bengaluru,India,20201218,mytravelexp.com,en-us,1,Karnataka,412x846,0.0,1,1
+mobile,50.0,0.0,Chrome,Bengaluru,India,20210117,mytravelexp.com,en-us,7,Karnataka,412x846,100.0,2,1
+mobile,30.0,0.0,Chrome,Bengaluru,India,20210125,mytravelexp.com,en-gb,2,Karnataka,412x915,30.0,1,1
+mobile,18.0,0.0,Chrome,Bengaluru,India,20210223,mytravelexp.com,en-us,3,Karnataka,412x846,18.0,1,1
+mobile,0.0,100.0,Safari,Bengaluru,India,20201103,mytravelexp.com,en-us,1,Karnataka,375x667,0.0,1,1
+mobile,823.0,0.0,Chrome,Bhopal,India,20201114,mytravelexp.com,en-us,16,Madhya Pradesh,412x846,823.0,1,1
+mobile,109.0,0.0,Chrome,Bhopal,India,20201118,mytravelexp.com,en-us,7,Madhya Pradesh,412x846,109.0,1,1
+mobile,0.0,100.0,Chrome,Bhopal,India,20201120,mytravelexp.com,en-us,1,Madhya Pradesh,412x846,0.0,1,1
+mobile,0.0,100.0,Chrome,Patna,India,20201103,mytravelexp.com,en-us,2,Bihar,360x760,0.0,2,1
+mobile,767.0,0.0,Chrome,Shivamogga,India,20201231,mytravelexp.com,en-us,8,Karnataka,412x846,767.0,1,1
+mobile,410.0,0.0,Chrome,Thrissur,India,20201115,mytravelexp.com,en-us,10,Kerala,412x846,410.0,1,1
+mobile,238.0,0.0,Safari,Quezon City,Philippines,20201215,mytravelexp.com,en-us,6,Metro Manila,414x736,238.0,1,1
+mobile,0.0,100.0,Safari,Santa Rosa,Philippines,20201215,mytravelexp.com,en,1,Calabarzon,375x667,0.0,1,1
+mobile,53.0,0.0,Safari,Colombo,Sri Lanka,20210311,mytravelexp.com,en-gb,3,Western Province,375x812,53.0,1,1
+mobile,0.0,100.0,Safari,Houston,United States,20201128,mytravelexp.com,en-us,1,Texas,414x896,0.0,1,1
+mobile,0.0,100.0,Safari,Minot,United States,20201207,mytravelexp.com,en-au,1,North Dakota,414x736,0.0,1,1
